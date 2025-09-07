@@ -1,4 +1,4 @@
-<img width="207" height="585" alt="Screenshot 2025-09-07 143405" src="https://github.com/user-attachments/assets/eca9e840-0185-464f-9365-5b898531135f" /># Overview
+# Overview
 The healthcare dashboard was designed to provide an interactive, visual overview of patient data for quick decision-making. It highlights key metrics related to patient counts, medication adherence, follow-up appointments, care satisfaction, and hospital stay patterns.
 ## Key Insights
 * Patient Age Distribution: The largest age group is 60+, representing over 40% of patients.
